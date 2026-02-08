@@ -96,7 +96,7 @@ while curiosity:
 I’m always open to learning, collaborating, and meaningful discussions.
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagar%20Raj-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/sagarcs)
-* ![Email](https://img.shields.io/badge/Email-<sr.cse818@gmail.com>-red?style=for-the-badge\&logo=gmail)
+* ![Email](https://img.shields.io/badge/Email-sr.cse818%40gmail.com-red?style=for-the-badge\&logo=gmail)
 
 ---
 

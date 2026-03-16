@@ -129,13 +129,12 @@ while curiosity:
 # 📊 GitHub Stats
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=sagarcs818&theme=dark&hide_border=false&include_all_commits=true"/>
-
 <img src="https://nirzak-streak-stats.vercel.app/?user=sagarcs818&theme=dark&hide_border=false"/>
+</p>
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarcs818&theme=dark&hide_border=false&layout=compact"/>
-
 </p>
 
 ---
